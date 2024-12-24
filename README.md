@@ -17,9 +17,8 @@ A simple and visually enhanced calculator built with **Streamlit**, allowing use
 
 ## 📸 Screenshots
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Calculator+Screenshot)
+![Screenshot](https://github.com/nishnarudkar/Simple_Calculator/blob/main/Screenshot%202024-12-25%20000946.png)
 
-*(Insert a screenshot of your app here)*
 
 ## 💻 Installation
 
